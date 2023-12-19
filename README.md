@@ -56,16 +56,15 @@ for example image :
 
 For this project make vizualize time series data using line chart, bar chart and box chart. with library pandas, matplotlib and seaborn from dataset containing the number views each day on the freecodecamp.org forum 2016 to 2019.
 
-first draw line plot l
-ike this.
+> First draw line plot like this.
 
 ![line plot](line_plot.png)
 
-second draw bar chart it should show avarage daily page views for each month grouped by yaer
+> Second draw bar chart it should show avarage daily page views for each month grouped by yaer
 
 ![bar plot](bar_plot.png)
 
-third create box plot with seaborn like similar to example this
+> Third create box plot with seaborn like similar to example this
 
 ![heat map](heatmap.png)
 
@@ -73,12 +72,12 @@ third create box plot with seaborn like similar to example this
 
 ## Sea Level Predictor
 
-to be want to analyze a dataset of the global avarage sea level change since 1980
+To be want to analyze a dataset of the global avarage sea level change since 1980
 and predict the sea level change through 2050
 
 and the result project like this:
 
 ![sea level plot](sea_level_plot.png)
 
-> ![NOTE]
+> [!NOTE]
 > you can see full descriptions on [freecodecamp data analysis with python project](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/)
